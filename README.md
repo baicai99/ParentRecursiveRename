@@ -13,9 +13,6 @@
     - 家庭照片_假日_2023_冬季假日
   - 婚礼
   - 生日
-
 ~~~
 
-
-
-![image-20240117232024677](/Users/chris/Library/Application Support/typora-user-images/image-20240117232024677.png)# ParentRecursiveRename
+![Snipaste_2024-01-17_23-20-07](/Users/chris/Desktop/父级递归重命名/Snipaste_2024-01-17_23-20-07.png)
