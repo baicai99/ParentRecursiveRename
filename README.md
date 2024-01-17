@@ -15,4 +15,4 @@
   - 生日
 ~~~
 
-![Snipaste_2024-01-17_23-20-07](/Users/chris/Desktop/父级递归重命名/Snipaste_2024-01-17_23-20-07.png)
+![Snipaste_2024-01-17_23-20-07](Snipaste_2024-01-17_23-20-07.png)
