@@ -26,7 +26,7 @@ def rename_files_and_folders(directory_path, parent_path=""):
             print(f"重命名文件：{item_path} -> {new_file_path}")
 
     # 重命名当前目录（除非它是根目录）
-    if directory_path != os.path.join("/Users/chris/Desktop", current_dir_name):
+    if directory_path != os.path.join(os.getcwd(), current_dir_name):
         new_directory_path = os.path.join(os.path.dirname(directory_path), parent_path)
         os.rename(directory_path, new_directory_path)
         print(f"重命名目录：{directory_path} -> {new_directory_path}")
