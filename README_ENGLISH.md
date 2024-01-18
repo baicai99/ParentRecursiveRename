@@ -13,8 +13,8 @@ Parental recursive naming is a naming convention often used for naming files, fo
   - Family Photos_Holidays
     - Family Photos_Holidays_2022_Summer Holidays
     - Family Photos_Holidays_2023_Winter Holidays
-  - Weddings
-  - Birthdays
+  - Family Photos_Weddings
+  - Family Photos_Birthdays
 ~~~
 
 ![Snipaste_2024-01-17_23-20-07](Snipaste_2024-01-17_23-20-07.png)
