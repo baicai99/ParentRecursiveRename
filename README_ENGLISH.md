@@ -1,6 +1,6 @@
 # Parent-Level Recursive Naming Script
 
-[中文](README.md)|[English](README_ENGLISH.md)
+[中文](README.md) | [English](README_ENGLISH.md)
 
 #### Function
 

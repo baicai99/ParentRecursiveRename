@@ -1,6 +1,6 @@
 # 父级递归命名脚本
 
-[中文](README.md)|[English](README_ENGLISH.md)
+[中文](README.md) | [English](README_ENGLISH.md)
 
 #### 作用
 
